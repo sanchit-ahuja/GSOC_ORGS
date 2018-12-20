@@ -1,0 +1,73 @@
+Fedora Project
+Django Software Foundation
+FOSSASIA
+Developers Italia
+Cuneiform Digital Library Initiative
+Zulip
+xpra.org
+XBMC Foundation
+UCSC Xena
+TimVideos.us
+The syslog-ng project.
+The Processing Foundation
+The Libreswan Project
+SymPy
+Systers Community
+Sugar Labs
+Submitty
+Stony Brook University Biomedical Informatics
+Stemformatics
+STE||AR Group
+Space @ Virginia Tech
+Software and Computational Systems Lab at LMU Munich
+Sage Mathematical Software System
+RTEMS Project
+Read the Docs
+Red Hen Lab
+RoboComp
+Python Software Foundation
+Python HYDRA
+Plone
+Performance Co-Pilot
+P2PSP.org
+OpnTec
+Oppia Foundation
+OpenWISP
+OWASP Foundation
+OSGeo
+Open States
+OpenAstronomy
+Open Source Robotics Foundation
+OpenCensus
+Open Chemistry
+Open Bioinformatics Foundation
+National Resource for Network Biology (NRNB)
+NumFOCUS
+Mobile Robot Programming Toolkit (MRPT)
+Mozilla
+Metasploit
+MetaBrainz Foundation Inc.
+LibreOffice
+LEAP Encryption Access Project
+Kiwix
+JdeRobot - Universidad Rey Juan Carlos
+InterMine
+Institute for Artificial Intelligence
+INCF
+GNU Radio
+GNU Project
+Global Alliance for Genomics and Health
+GFOSS - Open Technologies Alliance
+GNOME
+FreeType
+Free UK Genealogy
+CloudCV
+CCExtractor Development
+Canadian Centre for Computational Genomics
+CLiPS, University of Antwerp
+Blender Foundation
+CERN-HSF
+BeeWare Project
+ArduPilot
+Apertium
+AerospaceResearch.net
