@@ -10,6 +10,6 @@ Implemented my learning of a web scraping library Scrapy to extract orgs who hav
 
 1. Clone the repository.
 2. cd into the cloned repository via the terminal.
-3. Then run ```scrapy crawl gsoc```
+3. Then run ```scrapy crawl gsoc -a techno="YOUR LANGUAGE>final.csv```
 
-Right now, it just scrapes off the org names in a txt file. I will append the ideas list link along with the org name in a csv file.
+You can now change the language argument to the language of your choice and can get your file in either csv or txt. It will also scrape off the idea list links of every org. :)
